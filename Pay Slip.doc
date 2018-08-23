@@ -1,0 +1,1293 @@
+{\rtf1\adeflang1025\ansi\ansicpg1252\uc1\adeff1\deff0\stshfdbch0\stshfloch31506\stshfhich31506\stshfbi31506\deflang1033\deflangfe1033\themelang1033\themelangfe0\themelangcs1025{\fonttbl{\f0\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fbidi \fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f2\fbidi \fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f3\fbidi \froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}{\f10\fbidi \fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}
+{\f10\fbidi \fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}{\f37\fbidi \fswiss\fcharset0\fprq2{\*\panose 020f0502020204030204}Calibri;}{\flomajor\f31500\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\fdbmajor\f31501\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fhimajor\f31502\fbidi \fswiss\fcharset0\fprq2{\*\panose 020f0302020204030204}Calibri Light;}
+{\fbimajor\f31503\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\flominor\f31504\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\fdbminor\f31505\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fhiminor\f31506\fbidi \fswiss\fcharset0\fprq2{\*\panose 020f0502020204030204}Calibri;}
+{\fbiminor\f31507\fbidi \fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}{\f354\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\f355\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\f357\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\f358\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\f359\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f360\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\f361\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\f362\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f364\fbidi \fswiss\fcharset238\fprq2 Arial CE;}{\f365\fbidi \fswiss\fcharset204\fprq2 Arial Cyr;}
+{\f367\fbidi \fswiss\fcharset161\fprq2 Arial Greek;}{\f368\fbidi \fswiss\fcharset162\fprq2 Arial Tur;}{\f369\fbidi \fswiss\fcharset177\fprq2 Arial (Hebrew);}{\f370\fbidi \fswiss\fcharset178\fprq2 Arial (Arabic);}
+{\f371\fbidi \fswiss\fcharset186\fprq2 Arial Baltic;}{\f372\fbidi \fswiss\fcharset163\fprq2 Arial (Vietnamese);}{\f374\fbidi \fmodern\fcharset238\fprq1 Courier New CE;}{\f375\fbidi \fmodern\fcharset204\fprq1 Courier New Cyr;}
+{\f377\fbidi \fmodern\fcharset161\fprq1 Courier New Greek;}{\f378\fbidi \fmodern\fcharset162\fprq1 Courier New Tur;}{\f379\fbidi \fmodern\fcharset177\fprq1 Courier New (Hebrew);}{\f380\fbidi \fmodern\fcharset178\fprq1 Courier New (Arabic);}
+{\f381\fbidi \fmodern\fcharset186\fprq1 Courier New Baltic;}{\f382\fbidi \fmodern\fcharset163\fprq1 Courier New (Vietnamese);}{\f724\fbidi \fswiss\fcharset238\fprq2 Calibri CE;}{\f725\fbidi \fswiss\fcharset204\fprq2 Calibri Cyr;}
+{\f727\fbidi \fswiss\fcharset161\fprq2 Calibri Greek;}{\f728\fbidi \fswiss\fcharset162\fprq2 Calibri Tur;}{\f729\fbidi \fswiss\fcharset177\fprq2 Calibri (Hebrew);}{\f730\fbidi \fswiss\fcharset178\fprq2 Calibri (Arabic);}
+{\f731\fbidi \fswiss\fcharset186\fprq2 Calibri Baltic;}{\f732\fbidi \fswiss\fcharset163\fprq2 Calibri (Vietnamese);}{\flomajor\f31508\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
+{\flomajor\f31509\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\flomajor\f31511\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\flomajor\f31512\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}
+{\flomajor\f31513\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\flomajor\f31514\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\flomajor\f31515\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\flomajor\f31516\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fdbmajor\f31518\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\fdbmajor\f31519\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\fdbmajor\f31521\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fdbmajor\f31522\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\fdbmajor\f31523\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\fdbmajor\f31524\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fdbmajor\f31525\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\fdbmajor\f31526\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}
+{\fhimajor\f31528\fbidi \fswiss\fcharset238\fprq2 Calibri Light CE;}{\fhimajor\f31529\fbidi \fswiss\fcharset204\fprq2 Calibri Light Cyr;}{\fhimajor\f31531\fbidi \fswiss\fcharset161\fprq2 Calibri Light Greek;}
+{\fhimajor\f31532\fbidi \fswiss\fcharset162\fprq2 Calibri Light Tur;}{\fhimajor\f31533\fbidi \fswiss\fcharset177\fprq2 Calibri Light (Hebrew);}{\fhimajor\f31534\fbidi \fswiss\fcharset178\fprq2 Calibri Light (Arabic);}
+{\fhimajor\f31535\fbidi \fswiss\fcharset186\fprq2 Calibri Light Baltic;}{\fhimajor\f31536\fbidi \fswiss\fcharset163\fprq2 Calibri Light (Vietnamese);}{\fbimajor\f31538\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
+{\fbimajor\f31539\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\fbimajor\f31541\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fbimajor\f31542\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}
+{\fbimajor\f31543\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\fbimajor\f31544\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fbimajor\f31545\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\fbimajor\f31546\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\flominor\f31548\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\flominor\f31549\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\flominor\f31551\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\flominor\f31552\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\flominor\f31553\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\flominor\f31554\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\flominor\f31555\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\flominor\f31556\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}
+{\fdbminor\f31558\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\fdbminor\f31559\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\fdbminor\f31561\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}
+{\fdbminor\f31562\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\fdbminor\f31563\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\fdbminor\f31564\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\fdbminor\f31565\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\fdbminor\f31566\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fhiminor\f31568\fbidi \fswiss\fcharset238\fprq2 Calibri CE;}
+{\fhiminor\f31569\fbidi \fswiss\fcharset204\fprq2 Calibri Cyr;}{\fhiminor\f31571\fbidi \fswiss\fcharset161\fprq2 Calibri Greek;}{\fhiminor\f31572\fbidi \fswiss\fcharset162\fprq2 Calibri Tur;}
+{\fhiminor\f31573\fbidi \fswiss\fcharset177\fprq2 Calibri (Hebrew);}{\fhiminor\f31574\fbidi \fswiss\fcharset178\fprq2 Calibri (Arabic);}{\fhiminor\f31575\fbidi \fswiss\fcharset186\fprq2 Calibri Baltic;}
+{\fhiminor\f31576\fbidi \fswiss\fcharset163\fprq2 Calibri (Vietnamese);}{\fbiminor\f31578\fbidi \fswiss\fcharset238\fprq2 Arial CE;}{\fbiminor\f31579\fbidi \fswiss\fcharset204\fprq2 Arial Cyr;}
+{\fbiminor\f31581\fbidi \fswiss\fcharset161\fprq2 Arial Greek;}{\fbiminor\f31582\fbidi \fswiss\fcharset162\fprq2 Arial Tur;}{\fbiminor\f31583\fbidi \fswiss\fcharset177\fprq2 Arial (Hebrew);}
+{\fbiminor\f31584\fbidi \fswiss\fcharset178\fprq2 Arial (Arabic);}{\fbiminor\f31585\fbidi \fswiss\fcharset186\fprq2 Arial Baltic;}{\fbiminor\f31586\fbidi \fswiss\fcharset163\fprq2 Arial (Vietnamese);}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;
+\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;
+\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;\chyperlink\ctint255\cshade255\red5\green99\blue193;\red34\green34\blue34;\red162\green169\blue177;\red200\green204\blue209;}{\*\defchp \f31506\fs22 }{\*\defpap 
+\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 }\noqfpromote {\stylesheet{\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 
+\af1\afs22\alang1025 \ltrch\fcs0 \f31506\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 \sqformat \spriority0 Normal;}{
+\s2\ql \li0\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \ab\af0\afs36\alang1025 \ltrch\fcs0 \b\fs36\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 
+\sbasedon0 \snext2 \slink15 \sqformat \spriority9 \styrsid4083523 heading 2;}{\*\cs10 \additive \ssemihidden \sunhideused \spriority1 Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tblind0\tblindtype3\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv \ql \li0\ri0\sa160\sl259\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31506\afs22\alang1025 \ltrch\fcs0 \f31506\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext11 \ssemihidden \sunhideused Normal Table;}{\*\cs15 \additive 
+\rtlch\fcs1 \ab\af0\afs36 \ltrch\fcs0 \b\f0\fs36 \sbasedon10 \slink2 \slocked \spriority9 \styrsid4083523 Heading 2 Char;}{\s16\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af1\afs20\alang1025 
+\ltrch\fcs0 \f31506\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext16 \slink17 \ssemihidden \sunhideused \styrsid1579291 endnote text;}{\*\cs17 \additive \rtlch\fcs1 \af1\afs20 \ltrch\fcs0 \fs20 
+\sbasedon10 \slink16 \slocked \ssemihidden \styrsid1579291 Endnote Text Char;}{\*\cs18 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \super \sbasedon10 \ssemihidden \sunhideused \styrsid1579291 endnote reference;}{\*\cs19 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 
+\ul\cf17 \sbasedon10 \sunhideused \styrsid537704 Hyperlink;}{\*\cs20 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \cf15 \sbasedon10 \ssemihidden \styrsid14772564 Placeholder Text;}{\*\cs21 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 
+\sbasedon10 \spriority0 \styrsid4083523 flagicon;}{\s22\ql \li0\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext22 \sunhideused \styrsid4083523 Normal (Web);}{\*\cs23 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \sbasedon10 \spriority0 \styrsid4083523 toctoggle;}{\*\cs24 \additive \rtlch\fcs1 \af0 
+\ltrch\fcs0 \sbasedon10 \spriority0 \styrsid4083523 tocnumber;}{\*\cs25 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \sbasedon10 \spriority0 \styrsid4083523 toctext;}{\*\cs26 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \sbasedon10 \spriority0 \styrsid4083523 
+mw-headline;}{\*\cs27 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \sbasedon10 \spriority0 \styrsid4083523 mw-editsection;}{\*\cs28 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \sbasedon10 \spriority0 \styrsid4083523 mw-editsection-bracket;}{\*\cs29 \additive 
+\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b \sbasedon10 \sqformat \spriority22 \styrsid16479554 Strong;}}{\*\listtable{\list\listtemplateid193355202{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fs20\fbias0 \fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}
+\f3\fs20\fbias0 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fs20\fbias0 \fi-360\li2160
+\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fs20\fbias0 \fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel
+\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fs20\fbias0 \fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fs20\fbias0 \fi-360\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fs20\fbias0 \fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0
+{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fs20\fbias0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fs20\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid1513834960}{\list\listtemplateid724590278{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fs20\fbias0 \fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f2\fs20\fbias0 
+\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li2160\jclisttab\tx2160\lin2160 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative
+\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}
+\f10\fs20\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid1527282833}}{\*\listoverridetable{\listoverride\listid1513834960\listoverridecount0\ls1}{\listoverride\listid1527282833\listoverridecount0\ls2}}{\*\pgptbl {\pgp\ipgp0\itap0\li0
+\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp11\itap0\li336\ri0\sb120\sa312}{\pgp\ipgp11\itap1\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp11\itap0\li0\ri0\sb0\sa0\brdrt\brdrs\brdrw15\brsp100\brdrcf19 \brdrl
+\brdrs\brdrw15\brsp100\brdrcf19 \brdrb\brdrs\brdrw15\brsp100\brdrcf19 \brdrr\brdrs\brdrw15\brsp100\brdrcf19 }{\pgp\ipgp5\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp5\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp3\itap0\li0\ri0\sb0\sa0\brdrt
+\brdrs\brdrw15\brsp40\brdrcf20 \brdrl\brdrs\brdrw15\brsp40\brdrcf20 \brdrb\brdrs\brdrw15\brsp40\brdrcf20 \brdrr\brdrs\brdrw15\brsp40\brdrcf20 }{\pgp\ipgp7\itap0\li0\ri0\sb0\sa0}}{\*\rsidtbl \rsid343879\rsid357466\rsid414004\rsid537704\rsid596106
+\rsid622185\rsid945321\rsid993007\rsid1072675\rsid1451294\rsid1579291\rsid1638897\rsid1648719\rsid1906774\rsid2192635\rsid2362890\rsid2490965\rsid2575268\rsid2953489\rsid3033891\rsid3226376\rsid3744609\rsid3821204\rsid3938512\rsid4030112\rsid4074635
+\rsid4075576\rsid4083523\rsid4202974\rsid4225500\rsid4467704\rsid5007502\rsid5011375\rsid5447929\rsid5987870\rsid6056390\rsid6193129\rsid6492040\rsid6819167\rsid6886750\rsid7299163\rsid7407443\rsid7415371\rsid7547936\rsid7875592\rsid7895425\rsid8330286
+\rsid8737327\rsid8937432\rsid8982871\rsid9593916\rsid9928656\rsid10057700\rsid10313712\rsid10320289\rsid10509453\rsid10639651\rsid10776901\rsid11364943\rsid11483969\rsid11665999\rsid11811011\rsid11864710\rsid12128882\rsid12583486\rsid12586784\rsid12656631
+\rsid13060845\rsid13386420\rsid14111675\rsid14156467\rsid14233105\rsid14558324\rsid14772564\rsid14839498\rsid14942838\rsid15075728\rsid15079708\rsid15225365\rsid15415282\rsid16206663\rsid16479554\rsid16652069\rsid16655735}{\mmathPr\mmathFont34\mbrkBin0
+\mbrkBinSub0\msmallFrac0\mdispDef1\mlMargin0\mrMargin0\mdefJc1\mwrapIndent1440\mintLim0\mnaryLim1}{\info{\author obidah qudah}{\operator obidah qudah}{\creatim\yr2018\mo1\dy23\hr22\min18}{\revtim\yr2018\mo8\dy7\hr6\min2}{\version40}{\edmins14}{\nofpages5}
+{\nofwords225}{\nofchars1284}{\nofcharsws1506}{\vern57435}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}}\paperw12240\paperh15840\margl1440\margr1440\margt1440\margb1440\gutter0\ltrsect 
+\widowctrl\ftnbj\aenddoc\trackmoves0\trackformatting1\donotembedsysfont1\relyonvml0\donotembedlingdata0\grfdocevents0\validatexml1\showplaceholdtext0\ignoremixedcontent0\saveinvalidxml0\showxmlerrors1\noxlattoyen
+\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\formshade\horzdoc\dgmargin\dghspace180\dgvspace180\dghorigin1440\dgvorigin1440\dghshow1\dgvshow1
+\jexpand\viewkind1\viewscale100\pgbrdrhead\pgbrdrfoot\splytwnine\ftnlytwnine\htmautsp\nolnhtadjtbl\useltbaln\alntblind\lytcalctblwd\lyttblrtgr\lnbrkrule\nobrkwrptbl\snaptogridincell\allowfieldendsel\wrppunct
+\asianbrkrule\rsidroot16206663\newtblstyruls\nogrowautofit\usenormstyforlist\noindnmbrts\felnbrelev\nocxsptable\indrlsweleven\noafcnsttbl\afelev\utinl\hwelev\spltpgpar\notcvasp\notbrkcnstfrctbl\notvatxbx\krnprsnet\cachedcolbal \nouicompat \fet0
+{\*\wgrffmtfilter 2450}\nofeaturethrottle1\ilfomacatclnup0{\*\ftnsep \ltrpar \pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1579291 \rtlch\fcs1 \af1\afs22\alang1025 \ltrch\fcs0 
+\f31506\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af1 \ltrch\fcs0 \insrsid4202974 \chftnsep 
+\par }}{\*\ftnsepc \ltrpar \pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1579291 \rtlch\fcs1 \af1\afs22\alang1025 \ltrch\fcs0 \f31506\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {
+\rtlch\fcs1 \af1 \ltrch\fcs0 \insrsid4202974 \chftnsepc 
+\par }}{\*\aftnsep \ltrpar \pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1579291 \rtlch\fcs1 \af1\afs22\alang1025 \ltrch\fcs0 \f31506\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {
+\rtlch\fcs1 \af1 \ltrch\fcs0 \insrsid4202974 \chftnsep 
+\par }}{\*\aftnsepc \ltrpar \pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1579291 \rtlch\fcs1 \af1\afs22\alang1025 \ltrch\fcs0 \f31506\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {
+\rtlch\fcs1 \af1 \ltrch\fcs0 \insrsid4202974 \chftnsepc 
+\par }}\ltrpar \sectd \ltrsect\linex0\endnhere\sectlinegrid360\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3
+\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnqc\pnstart1\pnindent720\pnhang 
+{\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}
+\pard\plain \ltrpar\s22\ql \li0\ri0\sb120\sa120\sbauto1\saauto1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5011375 \cbpat8 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\ltrch\fcs1 \af1\afs21\alang9 \rtlch\fcs0 \f1\fs21\cf18\lang11265\langnp9\insrsid5011375 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }{\ltrch\fcs1 \af1\afs21\alang9 \rtlch\fcs0 \f1\fs21\cf18\lang11265\langnp9\insrsid5011375\charrsid5011375  }{\ltrch\fcs1 \af1\afs21\alang9 \rtlch\fcs0 \f1\fs21\cf18\lang11265\langnp9\insrsid5011375 
+\par 
+\par }{\rtlch\fcs1 \af1\afs21\alang11265 \ltrch\fcs0 \f1\fs21\cf18\lang9\langfe1033\langnp9\insrsid5011375 
+\par }{\rtlch\fcs1 \af1\afs21\alang11265 \ltrch\fcs0 \f1\fs21\cf18\lang9\langfe1033\langnp9\insrsid3744609 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }{\ltrch\fcs1 \af1\afs21\alang9 \rtlch\fcs0 \f1\fs21\cf18\lang11265\langnp9\insrsid3744609 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \lang1024\langfe1024\noproof\insrsid4202974 {\shp{\*\shpinst\shpleft-18685\shptop-4603\shpright9090\shpbottom11065\shpfhdr0\shpbxcolumn\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz0\shplid1026
+{\sp{\sn shapeType}{\sv 0}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn geoRight}{\sv 27775}}{\sp{\sn geoBottom}{\sv 15668}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn pVerticies}{\sv 8;64;(20005,3958);(21907,8280);(23810,12603)
+;(24700,13528);(25590,14453);(26100,9845);(25345,9508);(24590,9171);(20815,10833);(20170,11503);(19525,12173);(20910,13055);(21475,13528);(22040,14001);(22570,14208);(23560,14338);(24550,14468);(27775,14278)
+;(27415,14308);(27055,14338);(22595,14471);(21400,14518);(20205,14565);(20530,14533);(20245,14593);(19960,14653);(19912,14853);(19690,14878);(19468,14903);(19085,15668);(18910,14743);(18735,13818);(18895,10558)
+;(18640,9328);(18385,8098);(17647,7708);(17380,7363);(17113,7018);(17380,7265);(17035,7258);(16690,7251);(15795,7161);(15310,7318);(14825,7475);(12950,7845);(14125,8203);(15300,8561);(20945,9445)
+;(22360,9463);(23775,9481);(22253,8663);(22615,8308);(22977,7953);(27720,8540);(24535,7333);(21350,6126);(7010,2126);(3505,1063);(0,0);(552,455);(3505,958);(6458,1461);(18265,3543);(21220,4078)}}{\sp{\sn pSegmentInfo}{\sv 2;45
+;16384;44288;8193;44288;8193;44288;8193;44288;8193;44288;8193;44288;8193;44288;8193;44288;8193;44288;8193;44288;8193;44288;8193;44288;8193;44288;8193;44288;8193;44288;8193;44288;8193;44288;8193;44288
+;8193;44288;8193;44288;8193;44288;8193;44032;32768}}{\sp{\sn fFillOK}{\sv 1}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn lidRegroup}{\sv 0}}
+{\sp{\sn dhgt}{\sv 251658240}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8192\dppolyline\dppolycount188\dpptx20009\dppty3966\dpptx20720\dppty5577\dpptx21420\dppty7155\dpptx22098\dppty8644
+\dpptx22742\dppty10021\dpptx23331\dppty11243\dpptx23864\dppty12254\dpptx24109\dppty12677\dpptx24331\dppty13032\dpptx24531\dppty13321\dpptx24709\dppty13532\dpptx24875\dppty13643\dpptx25020\dppty13643\dpptx25164\dppty13532\dpptx25286\dppty13343
+\dpptx25409\dppty13076\dpptx25497\dppty12754\dpptx25653\dppty11999\dpptx25720\dppty11177\dpptx25697\dppty10410\dpptx25653\dppty10088\dpptx25575\dppty9821\dpptx25475\dppty9621\dpptx25353\dppty9510\dpptx25175\dppty9466\dpptx24942\dppty9477
+\dpptx24320\dppty9588\dpptx23553\dppty9821\dpptx22720\dppty10132\dpptx21898\dppty10499\dpptx21153\dppty10866\dpptx20553\dppty11221\dpptx20331\dppty11377\dpptx20176\dppty11510\dpptx20020\dppty11765\dpptx20031\dppty12043\dpptx20154\dppty12321
+\dpptx20376\dppty12599\dpptx20942\dppty13110\dpptx21231\dppty13343\dpptx21476\dppty13532\dpptx21898\dppty13843\dpptx22364\dppty14065\dpptx22898\dppty14232\dpptx23564\dppty14343\dpptx24031\dppty14376\dpptx24631\dppty14387\dpptx25309\dppty14387
+\dpptx25997\dppty14365\dpptx26620\dppty14343\dpptx27108\dppty14321\dpptx27275\dppty14321\dpptx27397\dppty14310\dpptx27442\dppty14310\dpptx27419\dppty14310\dpptx27308\dppty14321\dpptx27108\dppty14332\dpptx26831\dppty14343\dpptx26497\dppty14354
+\dpptx25675\dppty14376\dpptx24731\dppty14410\dpptx23742\dppty14443\dpptx22798\dppty14476\dpptx21998\dppty14499\dpptx21664\dppty14510\dpptx21409\dppty14521\dpptx21031\dppty14532\dpptx20765\dppty14543\dpptx20587\dppty14554\dpptx20487\dppty14554
+\dpptx20387\dppty14565\dpptx20254\dppty14599\dpptx20076\dppty14665\dpptx19954\dppty14754\dpptx19698\dppty14887\dpptx19609\dppty14921\dpptx19509\dppty15010\dpptx19287\dppty15176\dpptx19176\dppty15210\dpptx19076\dppty15165\dpptx18987\dppty15021
+\dpptx18920\dppty14743\dpptx18865\dppty14299\dpptx18843\dppty13688\dpptx18820\dppty12954\dpptx18809\dppty12154\dpptx18798\dppty11343\dpptx18765\dppty10566\dpptx18720\dppty9877\dpptx18643\dppty9332\dpptx18531\dppty8910\dpptx18376\dppty8555
+\dpptx18020\dppty8021\dpptx17665\dppty7644\dpptx17387\dppty7366\dpptx17265\dppty7210\dpptx17243\dppty7188\dpptx17209\dppty7233\dpptx17043\dppty7266\dpptx16698\dppty7244\dpptx16232\dppty7233\dpptx15743\dppty7244\dpptx15321\dppty7321\dpptx15076\dppty7388
+\dpptx14765\dppty7477\dpptx14421\dppty7577\dpptx14099\dppty7688\dpptx13865\dppty7810\dpptx13754\dppty7944\dpptx13821\dppty8077\dpptx13943\dppty8144\dpptx14132\dppty8210\dpptx14399\dppty8288\dpptx14765\dppty8366\dpptx15210\dppty8455\dpptx15721\dppty8555
+\dpptx16887\dppty8766\dpptx18165\dppty8966\dpptx19454\dppty9155\dpptx20653\dppty9310\dpptx21187\dppty9377\dpptx21653\dppty9421\dpptx22053\dppty9455\dpptx22364\dppty9466\dpptx22598\dppty9466\dpptx22764\dppty9432\dpptx22953\dppty9344\dpptx22964\dppty9199
+\dpptx22887\dppty9032\dpptx22620\dppty8644\dpptx22564\dppty8466\dpptx22620\dppty8310\dpptx22742\dppty8255\dpptx22942\dppty8221\dpptx23520\dppty8177\dpptx24231\dppty8166\dpptx24920\dppty8144\dpptx25197\dppty8121\dpptx25431\dppty8088\dpptx25586\dppty8033
+\dpptx25642\dppty7955\dpptx25575\dppty7844\dpptx25386\dppty7710\dpptx25053\dppty7544\dpptx24542\dppty7344\dpptx23820\dppty7088\dpptx22864\dppty6766\dpptx21720\dppty6410\dpptx20398\dppty5999\dpptx18954\dppty5566\dpptx17409\dppty5111\dpptx15798\dppty4633
+\dpptx14143\dppty4155\dpptx10866\dppty3200\dpptx9299\dppty2755\dpptx7821\dppty2322\dpptx6477\dppty1933\dpptx5288\dppty1589\dpptx4288\dppty1300\dpptx3511\dppty1067\dpptx2900\dppty889\dpptx2378\dppty733\dpptx1955\dppty622\dpptx1611\dppty533
+\dpptx1355\dppty467\dpptx1189\dppty433\dpptx1100\dppty422\dpptx1089\dppty422\dpptx1144\dppty456\dpptx1289\dppty489\dpptx1489\dppty544\dpptx1766\dppty622\dpptx2522\dppty778\dpptx3511\dppty967\dpptx4166\dppty1078\dpptx4999\dppty1222\dpptx5988\dppty1389
+\dpptx7110\dppty1589\dpptx8332\dppty1800\dpptx9632\dppty2033\dpptx12365\dppty2511\dpptx15098\dppty2989\dpptx16398\dppty3222\dpptx17620\dppty3444\dpptx18743\dppty3644\dpptx19731\dppty3822\dpptx20565\dppty3966\dpptx21220\dppty4088
+\dpx-18685\dpy-4603\dpxsize27775\dpysize15668\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat0\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}}{\ltrch\fcs1 \af1\afs21\alang9 \rtlch\fcs0 
+\f1\fs21\cf18\lang11265\langnp9\insrsid5011375 
+\par 
+\par }\pard \ltrpar\s22\ql \li0\ri0\sb120\sa120\sbauto1\saauto1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3744609 \cbpat8 {\rtlch\fcs1 \af1\afs21\alang11265 \ltrch\fcs0 
+\f1\fs21\cf18\lang9\langfe1033\langnp9\insrsid3744609\charrsid3744609 China - LanguageIncludes official and accepted business languages spoken in this country/economy.
+\par Last Published: 7/20/2017
+\par Mandarin Chinese is the national language, spoken by over 70 percent of Chinese. Other than Mandarin there are six major Chinese dia
+lects, as well as numerous local dialects. Pinyin refers to the standardized Romanization system used to represent the pronunciation of Chinese characters; it is used throughout China on signs. Simplified Chinese characters are written the same across Mai
+n
+land China despite being pronounced differently in each dialect. For business purposes it is important to provide contacts with bilingual business cards, usually with Chinese characters on one side, English on the other. Titles and company names should be
+ translated with care into Chinese to ensure a positive meaning.
+\par 
+\par Cantonese is often spoken in southern China and Hong Kong.                 
+\par 
+\par Prepared by our U.S. Embassies abroad. With its network of 108 offices across the United States and in more than 7
+5 countries, the U.S. Commercial Service of the U.S. Department of Commerce utilizes its global presence and international marketing expertise to help U.S. companies sell their products and services worldwide. Locate the U.S. Commercial Service trade spec
+ialist in the U.S. nearest you by visiting }{\field{\*\fldinst {\rtlch\fcs1 \af1\afs21\alang11265 \ltrch\fcs0 \f1\fs21\cf18\lang9\langfe1033\langnp9\insrsid16479554  HYPERLINK "}{\rtlch\fcs1 \af1\afs21\alang11265 \ltrch\fcs0 
+\f1\fs21\cf18\lang9\langfe1033\langnp9\insrsid16479554\charrsid3744609 http://export.gov/usoffices}{\rtlch\fcs1 \af1\afs21\alang11265 \ltrch\fcs0 \f1\fs21\cf18\lang9\langfe1033\langnp9\insrsid16479554 " }{\rtlch\fcs1 \af1\afs21\alang11265 \ltrch\fcs0 
+\f1\fs21\cf18\lang9\langfe1033\langnp9\insrsid6193129 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b5000000068007400740070003a002f002f006500780070006f00720074002e0067006f0076002f00750073006f006600660069006300650073000000795881f43b1d7f48af2c825dc485276300000000a5ab000302}}
+}{\fldrslt {\rtlch\fcs1 \af1\afs21\alang11265 \ltrch\fcs0 \cs19\f1\fs21\ul\cf17\lang9\langfe1033\langnp9\insrsid16479554\charrsid13386420 http://export.gov/usoffices}}}\sectd \ltrsect\linex0\endnhere\sectlinegrid360\sectdefaultcl\sftnbj {\rtlch\fcs1 
+\af1\afs21\alang11265 \ltrch\fcs0 \f1\fs21\cf18\lang9\langfe1033\langnp9\insrsid3744609\charrsid3744609 .}{\rtlch\fcs1 \af1\afs21\alang11265 \ltrch\fcs0 \f1\fs21\cf18\lang9\langfe1033\langnp9\insrsid5011375 
+\par }{\rtlch\fcs1 \af1\afs21\alang11265 \ltrch\fcs0 \f1\fs21\cf18\lang9\langfe1033\langnp9\insrsid1638897 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }{\*\themedata 504b030414000600080000002100e9de0fbfff0000001c020000130000005b436f6e74656e745f54797065735d2e786d6cac91cb4ec3301045f748fc83e52d4a
+9cb2400825e982c78ec7a27cc0c8992416c9d8b2a755fbf74cd25442a820166c2cd933f79e3be372bd1f07b5c3989ca74aaff2422b24eb1b475da5df374fd9ad
+5689811a183c61a50f98f4babebc2837878049899a52a57be670674cb23d8e90721f90a4d2fa3802cb35762680fd800ecd7551dc18eb899138e3c943d7e503b6
+b01d583deee5f99824e290b4ba3f364eac4a430883b3c092d4eca8f946c916422ecab927f52ea42b89a1cd59c254f919b0e85e6535d135a8de20f20b8c12c3b0
+0c895fcf6720192de6bf3b9e89ecdbd6596cbcdd8eb28e7c365ecc4ec1ff1460f53fe813d3cc7f5b7f020000ffff0300504b030414000600080000002100a5d6
+a7e7c0000000360100000b0000005f72656c732f2e72656c73848fcf6ac3300c87ef85bd83d17d51d2c31825762fa590432fa37d00e1287f68221bdb1bebdb4f
+c7060abb0884a4eff7a93dfeae8bf9e194e720169aaa06c3e2433fcb68e1763dbf7f82c985a4a725085b787086a37bdbb55fbc50d1a33ccd311ba548b6309512
+0f88d94fbc52ae4264d1c910d24a45db3462247fa791715fd71f989e19e0364cd3f51652d73760ae8fa8c9ffb3c330cc9e4fc17faf2ce545046e37944c69e462
+a1a82fe353bd90a865aad41ed0b5b8f9d6fd010000ffff0300504b0304140006000800000021006b799616830000008a0000001c0000007468656d652f746865
+6d652f7468656d654d616e616765722e786d6c0ccc4d0ac3201040e17da17790d93763bb284562b2cbaebbf600439c1a41c7a0d29fdbd7e5e38337cedf14d59b
+4b0d592c9c070d8a65cd2e88b7f07c2ca71ba8da481cc52c6ce1c715e6e97818c9b48d13df49c873517d23d59085adb5dd20d6b52bd521ef2cdd5eb9246a3d8b
+4757e8d3f729e245eb2b260a0238fd010000ffff0300504b0304140006000800000021000d8cbec751070000191c0000160000007468656d652f7468656d652f
+7468656d65312e786d6cec594d8f1bb719be17e87f20e62e6b24cde8636139904692ddda1b1b96e220474aa234f472860249ed5a080c14ceb14081a26e904303
+f49643900f20017a497f8d5b07690ae42fe425e743e46a94b5e12d1ab4d9057625cec3f79b0f5f726ebef52461e89c084979daf71a377c0f9174c197345df7bd
+7766935ad74352e17489194f49dfdb11e9bd75ebd7bfba894f544c1282607e2a4f70df8b95da9cd4eb7201c358dee01b92c2b315170956f055aceb4b812f406e
+c2ea4ddf6fd7134c530fa53801b1f7572bba2068a6457ab70ae163065f5325f5c08289a9164d9c1906bb3c6b6884dcc98809748e59df033d4b7e31234f948718
+960a1ef43ddffc78f55b37ebf8249fc4d491b9d6bc89f9c9e7e51396674da353ace7a5d2200883f6a0946f004c1de2c69d717bdc2ee519005e2cc0d3cc165b66
+38ec0d47618eb540d9c70ad9a3cea8d570f096fcd681cd8350ff3a7803cae40707f8c92482283a7803caf0e1013e083acd2870f00694e1db07f88e3f18051d07
+6f4031a3e9d901da0fdbada8f0b684ac38bb5309ef85c1a4d3cc85ef51500d657569152b9eaa63b596e0c75c4c00a0810c2b9a22b5db90155e40154798d1b9a0
+e81e5dc750781b9c7209c37ed39ff82df8ab7f03f3c944049f106ccdd6768125f26048db83e442d08dea7bbf05a99e05f9e19bcf7ef8e62bf4e2d9d72f9efded
+c5071fbc78f64526c8997507a76b7bd6f79ffcf1df1fff0efdebabbf7efffccfd57869e3fff9f9effff1f73f5503c1d37d085e7ef8e5b75f7ff9f2a33f7cf7e9
+f30af840e0b90d9fd18448f436b9400f79028e9910b89693b978bd19b318537bc6205d4b9c62ada542fe58c50efaed1d66b80237246e041f09a0982ae0eded63
+c7e0692cb68a5648bc1b270ef0947336e4a2320a77b52e2bccb36dbaae562eb636ee21c6e755ba239c3af91d6f37c0adb44a641413c7cc070ca70aaf494a14d2
+cff8192115debd47a913d753ba105cf29542ef5134c4b43224333a77aa693fe90e4d202fbb2a0321df4e6c4e1fa12167555e8fc8b98b8455815985f133c29c30
+dec65b85932a91339c303be0f7b08aab8c9ceec4c2c68da5824caf09e368bc245256cdb92fc05f2be977815eaad37eca76898b148a9e55c9bc8739b791237e16
+c538d95461a7348d6dec6fe4199428460fb8aa829f727785e8ef90079c1e4df7234a9c745fcd06ef00b3da26ed0b443fd98a8a5cde26dca9dfe98ead30315403
+c4eff07942d32bc9fd12ad87ff595a07227df9978f2bbcfab912fa40d0ca1575e7128d1fc35d26ef888b25fdf973f7086fd3070496cbe106f60b75ff42dddeff
+3c751f5bcfd74fd87b8e06fad6ad62d6aa9bc63da9eadb119c363bb5a6dff03d03a28c4dd58e917bd234f112f6a8e50406f543737a25e5896e13c347bda64195
+835b0b6ce620c1d5bb54c5d3186fa0d36f180d6b998b5e4bb4e1120e0066b852b6560a8708951d5b437d42cd38446275ca97d970cb3eb896628c556b73382e14
+b5b4805755d6eabc99b24666d5d1b0b9ae358c69861e1dd74a977588cd011f425eba06836534a1f941d0324194db90516d3b1c8a30234b1df72c47455ab4eae2
+f3b5a448c67849f21c69bf0f73d430492a6ae5c011ed47560c5d63fa4f46cdd2d6d362df40dbab24c956171c515764ef4db2545c1b149931595e5d5a8e2cb517
+274bd145dfeb85cdd0430bbce97b2b3873c3c764035997badfc46c0d17570b25b2b2bf72319bc0efb3d92b1c83eab3565cc32fc60f1c76786023a41a611967a5
+611ee525c052ad29b3bf194258afcb810a367a352b5a5d2886ff9a15104737b564b5220b6527db1ad1b1cbbee654cab78a8869bcbc4073b6150f31a45f972af8
+b3a412ae450c23e82f70cfa7a36d1eb9e49c13a37dbb6670d938669b18e774ab9768b19233b829d5d206f3cd320f7cabb4dd38f7faae98257f4daed865fc7fe6
+8ade4fe096a2b5d41958c035b3c048af94bec7858a39b0d026a68b898016c27007540bdc15c363282ab8ec36ff0539d7ffb33597c930cb5a5ff03da46b2428ec
+472a16843c005a32d57785b046be776522592ec8549465aedc6466cfc9396133cd816dbdb77b288652376c92d380c15dae3ff77bbe82e66bdde4d8ebcd61b272
+efcdd6c0d1cee7ea493a40fb96e618c1eae6a3086ca93b0b83cde1c55e712dbbb865d5916d552f176315148fb5491484001cb64dcab6ac0167ff233eb86d5926
+55c7a5f4d48ef2a580ed95393b52d95fb8a6ed0d764d2b1c845a28959af0baa6bd667fd02ec482547bbbcce837afc983e6076c38ece24a962e9ab8a21a8a941b
+6b2f572d885a155dbe0198b750f68b223e7f0cfbca08aee4b74c493009c8f9095cb6415b393596c17a2846f3a501cfd156d0bef7be1f0e82a8194635bf1b8e6b
+412bf06bdd70d0aa0dc2b0d518870d7f346c3e05b65071d208b3376013b81864bbfc3d98193f78179614779f37163ca973f3aeab6e0c37efc21acde3efc21085
+9deefd7673d26bf586ed5aaf3598d482d1b05beb45ed616dd48e3aa3c9280abbbdc9530f9d1b70306845417bdcadb51b51540bdabe36bfdbab75826673107406
+dd7130789a531a786ea208ff4d2c20bcc6ae5b3f020000ffff0300504b0304140006000800000021000dd1909fb60000001b010000270000007468656d652f74
+68656d652f5f72656c732f7468656d654d616e616765722e786d6c2e72656c73848f4d0ac2301484f78277086f6fd3ba109126dd88d0add40384e4350d363f24
+51eced0dae2c082e8761be9969bb979dc9136332de3168aa1a083ae995719ac16db8ec8e4052164e89d93b64b060828e6f37ed1567914b284d262452282e3198
+720e274a939cd08a54f980ae38a38f56e422a3a641c8bbd048f7757da0f19b017cc524bd62107bd5001996509affb3fd381a89672f1f165dfe514173d9850528
+a2c6cce0239baa4c04ca5bbabac4df000000ffff0300504b01022d0014000600080000002100e9de0fbfff0000001c0200001300000000000000000000000000
+000000005b436f6e74656e745f54797065735d2e786d6c504b01022d0014000600080000002100a5d6a7e7c0000000360100000b000000000000000000000000
+00300100005f72656c732f2e72656c73504b01022d00140006000800000021006b799616830000008a0000001c00000000000000000000000000190200007468
+656d652f7468656d652f7468656d654d616e616765722e786d6c504b01022d00140006000800000021000d8cbec751070000191c000016000000000000000000
+00000000d60200007468656d652f7468656d652f7468656d65312e786d6c504b01022d00140006000800000021000dd1909fb60000001b010000270000000000
+00000000000000005b0a00007468656d652f7468656d652f5f72656c732f7468656d654d616e616765722e786d6c2e72656c73504b050600000000050005005d010000560b00000000}
+{\*\colorschememapping 3c3f786d6c2076657273696f6e3d22312e302220656e636f64696e673d225554462d3822207374616e64616c6f6e653d22796573223f3e0d0a3c613a636c724d
+617020786d6c6e733a613d22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f72672f64726177696e676d6c2f323030362f6d6169
+6e22206267313d226c743122207478313d22646b3122206267323d226c743222207478323d22646b322220616363656e74313d22616363656e74312220616363
+656e74323d22616363656e74322220616363656e74333d22616363656e74332220616363656e74343d22616363656e74342220616363656e74353d22616363656e74352220616363656e74363d22616363656e74362220686c696e6b3d22686c696e6b2220666f6c486c696e6b3d22666f6c486c696e6b222f3e}
+{\*\latentstyles\lsdstimax371\lsdlockeddef0\lsdsemihiddendef0\lsdunhideuseddef0\lsdqformatdef0\lsdprioritydef99{\lsdlockedexcept \lsdqformat1 \lsdpriority0 \lsdlocked0 Normal;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 1;
+\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 2;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 3;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 4;
+\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 5;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 6;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 7;
+\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 8;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 9;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 1;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 4;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 5;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 6;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 7;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 8;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 9;
+\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 1;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 2;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 3;
+\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 4;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 5;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 6;
+\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 7;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 8;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 9;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Normal Indent;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 footnote text;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 annotation text;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 header;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 footer;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index heading;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority35 \lsdlocked0 caption;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 table of figures;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 envelope address;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 envelope return;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 footnote reference;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 annotation reference;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 line number;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 page number;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 endnote reference;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 endnote text;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 table of authorities;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 macro;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 toa heading;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Bullet;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Number;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List 3;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List 4;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List 5;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Bullet 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Bullet 3;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Bullet 4;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Bullet 5;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Number 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Number 3;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Number 4;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Number 5;\lsdqformat1 \lsdpriority10 \lsdlocked0 Title;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Closing;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Signature;\lsdsemihidden1 \lsdunhideused1 \lsdpriority1 \lsdlocked0 Default Paragraph Font;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text Indent;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Continue;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Continue 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Continue 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Continue 4;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Continue 5;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Message Header;\lsdqformat1 \lsdpriority11 \lsdlocked0 Subtitle;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Salutation;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Date;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text First Indent;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text First Indent 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Note Heading;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text Indent 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text Indent 3;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Block Text;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Hyperlink;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 FollowedHyperlink;\lsdqformat1 \lsdpriority22 \lsdlocked0 Strong;
+\lsdqformat1 \lsdpriority20 \lsdlocked0 Emphasis;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Document Map;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Plain Text;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 E-mail Signature;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Top of Form;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Bottom of Form;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Normal (Web);\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Acronym;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Address;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Cite;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Code;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Definition;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Keyboard;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Preformatted;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Sample;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Typewriter;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Variable;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 annotation subject;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 No List;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Outline List 1;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Outline List 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Outline List 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Balloon Text;\lsdpriority39 \lsdlocked0 Table Grid;
+\lsdsemihidden1 \lsdlocked0 Placeholder Text;\lsdqformat1 \lsdpriority1 \lsdlocked0 No Spacing;\lsdpriority60 \lsdlocked0 Light Shading;\lsdpriority61 \lsdlocked0 Light List;\lsdpriority62 \lsdlocked0 Light Grid;
+\lsdpriority63 \lsdlocked0 Medium Shading 1;\lsdpriority64 \lsdlocked0 Medium Shading 2;\lsdpriority65 \lsdlocked0 Medium List 1;\lsdpriority66 \lsdlocked0 Medium List 2;\lsdpriority67 \lsdlocked0 Medium Grid 1;\lsdpriority68 \lsdlocked0 Medium Grid 2;
+\lsdpriority69 \lsdlocked0 Medium Grid 3;\lsdpriority70 \lsdlocked0 Dark List;\lsdpriority71 \lsdlocked0 Colorful Shading;\lsdpriority72 \lsdlocked0 Colorful List;\lsdpriority73 \lsdlocked0 Colorful Grid;\lsdpriority60 \lsdlocked0 Light Shading Accent 1;
+\lsdpriority61 \lsdlocked0 Light List Accent 1;\lsdpriority62 \lsdlocked0 Light Grid Accent 1;\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 1;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 1;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 1;
+\lsdsemihidden1 \lsdlocked0 Revision;\lsdqformat1 \lsdpriority34 \lsdlocked0 List Paragraph;\lsdqformat1 \lsdpriority29 \lsdlocked0 Quote;\lsdqformat1 \lsdpriority30 \lsdlocked0 Intense Quote;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 1;
+\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 1;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 1;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 1;\lsdpriority70 \lsdlocked0 Dark List Accent 1;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 1;
+\lsdpriority72 \lsdlocked0 Colorful List Accent 1;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 1;\lsdpriority60 \lsdlocked0 Light Shading Accent 2;\lsdpriority61 \lsdlocked0 Light List Accent 2;\lsdpriority62 \lsdlocked0 Light Grid Accent 2;
+\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 2;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 2;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 2;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 2;
+\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 2;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 2;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 2;\lsdpriority70 \lsdlocked0 Dark List Accent 2;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 2;
+\lsdpriority72 \lsdlocked0 Colorful List Accent 2;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 2;\lsdpriority60 \lsdlocked0 Light Shading Accent 3;\lsdpriority61 \lsdlocked0 Light List Accent 3;\lsdpriority62 \lsdlocked0 Light Grid Accent 3;
+\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 3;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 3;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 3;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 3;
+\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 3;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 3;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 3;\lsdpriority70 \lsdlocked0 Dark List Accent 3;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 3;
+\lsdpriority72 \lsdlocked0 Colorful List Accent 3;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 3;\lsdpriority60 \lsdlocked0 Light Shading Accent 4;\lsdpriority61 \lsdlocked0 Light List Accent 4;\lsdpriority62 \lsdlocked0 Light Grid Accent 4;
+\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 4;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 4;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 4;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 4;
+\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 4;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 4;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 4;\lsdpriority70 \lsdlocked0 Dark List Accent 4;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 4;
+\lsdpriority72 \lsdlocked0 Colorful List Accent 4;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 4;\lsdpriority60 \lsdlocked0 Light Shading Accent 5;\lsdpriority61 \lsdlocked0 Light List Accent 5;\lsdpriority62 \lsdlocked0 Light Grid Accent 5;
+\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 5;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 5;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 5;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 5;
+\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 5;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 5;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 5;\lsdpriority70 \lsdlocked0 Dark List Accent 5;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 5;
+\lsdpriority72 \lsdlocked0 Colorful List Accent 5;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 5;\lsdpriority60 \lsdlocked0 Light Shading Accent 6;\lsdpriority61 \lsdlocked0 Light List Accent 6;\lsdpriority62 \lsdlocked0 Light Grid Accent 6;
+\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 6;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 6;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 6;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 6;
+\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 6;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 6;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 6;\lsdpriority70 \lsdlocked0 Dark List Accent 6;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 6;
+\lsdpriority72 \lsdlocked0 Colorful List Accent 6;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 6;\lsdqformat1 \lsdpriority19 \lsdlocked0 Subtle Emphasis;\lsdqformat1 \lsdpriority21 \lsdlocked0 Intense Emphasis;
+\lsdqformat1 \lsdpriority31 \lsdlocked0 Subtle Reference;\lsdqformat1 \lsdpriority32 \lsdlocked0 Intense Reference;\lsdqformat1 \lsdpriority33 \lsdlocked0 Book Title;\lsdsemihidden1 \lsdunhideused1 \lsdpriority37 \lsdlocked0 Bibliography;
+\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority39 \lsdlocked0 TOC Heading;\lsdpriority41 \lsdlocked0 Plain Table 1;\lsdpriority42 \lsdlocked0 Plain Table 2;\lsdpriority43 \lsdlocked0 Plain Table 3;\lsdpriority44 \lsdlocked0 Plain Table 4;
+\lsdpriority45 \lsdlocked0 Plain Table 5;\lsdpriority40 \lsdlocked0 Grid Table Light;\lsdpriority46 \lsdlocked0 Grid Table 1 Light;\lsdpriority47 \lsdlocked0 Grid Table 2;\lsdpriority48 \lsdlocked0 Grid Table 3;\lsdpriority49 \lsdlocked0 Grid Table 4;
+\lsdpriority50 \lsdlocked0 Grid Table 5 Dark;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 1;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 1;
+\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 1;\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 1;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 1;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 1;
+\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 1;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 2;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 2;\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 2;
+\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 2;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 2;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 2;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 2;
+\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 3;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 3;\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 3;\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 3;
+\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 3;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 3;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 3;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 4;
+\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 4;\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 4;\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 4;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 4;
+\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 4;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 4;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 5;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 5;
+\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 5;\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 5;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 5;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 5;
+\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 5;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 6;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 6;\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 6;
+\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 6;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 6;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 6;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 6;
+\lsdpriority46 \lsdlocked0 List Table 1 Light;\lsdpriority47 \lsdlocked0 List Table 2;\lsdpriority48 \lsdlocked0 List Table 3;\lsdpriority49 \lsdlocked0 List Table 4;\lsdpriority50 \lsdlocked0 List Table 5 Dark;
+\lsdpriority51 \lsdlocked0 List Table 6 Colorful;\lsdpriority52 \lsdlocked0 List Table 7 Colorful;\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 1;\lsdpriority47 \lsdlocked0 List Table 2 Accent 1;\lsdpriority48 \lsdlocked0 List Table 3 Accent 1;
+\lsdpriority49 \lsdlocked0 List Table 4 Accent 1;\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 1;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 1;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 1;
+\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 2;\lsdpriority47 \lsdlocked0 List Table 2 Accent 2;\lsdpriority48 \lsdlocked0 List Table 3 Accent 2;\lsdpriority49 \lsdlocked0 List Table 4 Accent 2;
+\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 2;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 2;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 2;\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 3;
+\lsdpriority47 \lsdlocked0 List Table 2 Accent 3;\lsdpriority48 \lsdlocked0 List Table 3 Accent 3;\lsdpriority49 \lsdlocked0 List Table 4 Accent 3;\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 3;
+\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 3;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 3;\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 4;\lsdpriority47 \lsdlocked0 List Table 2 Accent 4;
+\lsdpriority48 \lsdlocked0 List Table 3 Accent 4;\lsdpriority49 \lsdlocked0 List Table 4 Accent 4;\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 4;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 4;
+\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 4;\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 5;\lsdpriority47 \lsdlocked0 List Table 2 Accent 5;\lsdpriority48 \lsdlocked0 List Table 3 Accent 5;
+\lsdpriority49 \lsdlocked0 List Table 4 Accent 5;\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 5;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 5;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 5;
+\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 6;\lsdpriority47 \lsdlocked0 List Table 2 Accent 6;\lsdpriority48 \lsdlocked0 List Table 3 Accent 6;\lsdpriority49 \lsdlocked0 List Table 4 Accent 6;
+\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 6;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 6;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 6;}}{\*\datastore 010500000200000018000000
+4d73786d6c322e534158584d4c5265616465722e362e30000000000000000000000e0000
+d0cf11e0a1b11ae1000000000000000000000000000000003e000300feff0900060000000000000000000000010000000100000000000000001000000200000001000000feffffff0000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffdffffff04000000feffffff05000000fefffffffeffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffff010000000c6ad98892f1d411a65f0040963251e50000000000000000000000002006
+d118fb2dd4010300000080030000000000004d0073006f004400610074006100530074006f0072006500000000000000000000000000000000000000000000000000000000000000000000000000000000001a000101ffffffffffffffff0200000000000000000000000000000000000000000000002006d118fb2dd401
+2006d118fb2dd4010000000000000000000000004b00cd00db004b00db004700d6005800c500d400300053005a0059004f00d800c500c7004a004100d500d0003d003d000000000000000000000000000000000032000101ffffffffffffffff0300000000000000000000000000000000000000000000002006d118fb2d
+d4012006d118fb2dd4010000000000000000000000004900740065006d0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000a000201ffffffff04000000ffffffff000000000000000000000000000000000000000000000000
+00000000000000000000000000000000de0100000000000001000000020000000300000004000000050000000600000007000000feffffff090000000a0000000b0000000c0000000d000000feffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff3c623a536f75726365732053656c65637465645374796c653d225c415041536978746845646974696f6e4f66666963654f6e6c696e652e78736c22205374796c654e616d653d22415041222056657273696f6e3d22362220786d6c6e733a
+623d22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f72672f6f6666696365446f63756d656e742f323030362f6269626c696f6772617068792220786d6c6e733d22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f72672f6f6666696365446f63756d656e74
+2f323030362f6269626c696f677261706879223e3c623a536f7572636520786d6c6e733a623d22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f72672f6f6666696365446f63756d656e742f323030362f6269626c696f6772617068792220786d6c6e733d22687474703a2f2f736368656d
+61732e6f70656e786d6c666f726d6174732e6f72672f6f6666696365446f63756d656e742f323030362f6269626c696f677261706879223e3c623a5461673e506c616365686f6c646572313c2f623a5461673e3c623a5265664f726465723e313c2f623a5265664f726465723e3c2f623a536f757263653e3c2f623a536f
+75726365733e00000000000000000000000000000000000000000000000000000000000000000000500072006f007000650072007400690065007300000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000200ffffffffffffffffffffffff000000000000
+0000000000000000000000000000000000000000000000000000000000000800000055010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff00000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff0000
+000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff
+0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000003c3f786d6c2076657273696f6e3d22312e302220656e636f64696e673d225554462d3822207374616e64616c6f6e653d226e6f223f3e0d0a3c64733a6461746173746f72654974656d2064733a69
+74656d49443d227b45434341444532412d393736442d343639372d393236352d3833423839363732343044377d2220786d6c6e733a64733d22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f72672f6f6666696365446f63756d656e742f323030362f637573746f6d586d6c223e3c64733a
+736368656d61526566733e3c64733a736368656d615265662064733a7572693d22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f72672f6f6666696365446f63756d656e742f323030362f6269626c696f677261706879222f3e3c2f64733a736368656d61526566733e3c2f64733a646174
+6173746f72654974656d3e00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000105000000000000}{\object\objhtml\BmAjT \Ul{\objdata \sd34 \cvxc43 \cvx23 \bvcf324
+   \vbvc23 \ghjhg-13 \xcv23 \oWMHHw \zFD {\f357\fbidi 0 1 0 5 0 0 0 0 0 2 0 0 0 0 0 0 0 B 0 0 0 0 0 0 6 3 5 4 3 6 5 6 7 6 5 3 7 6 6 5 }
+{\f357\fbidi 2 E 3 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 E 0 0 0 0 D 0 C F 1 1 E 0 A 1 }
+{\f357\fbidi B 1 1 A E 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 E }
+{\f357\fbidi 0 0 0 3 0 0 F E F F 0 9 0 0 0 6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 }
+{\f357\fbidi 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 1 }
+{\f357\fbidi 0 0 0 0 0 0 F E F F F F F F 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F D F F F F F F 0 4 0 0 0 0 0 0 F E F F F F F F 0 5 }
+{\f357\fbidi 0 0 0 0 0 0 F E F F F F F F F E F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F 5 2 }
+{\f357\fbidi 0 0 6 F 0 0 6 F 0 0 7 4 0 0 2 0 0 0 4 5 0 0 6 E 0 0 7 4 0 0 7 2 0 0 7 9 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 1 6 0 0 0 5 0 0 F F F F F F F F F F F F F F F F 0 2 0 0 0 0 0 0 0 2 }
+{\f357\fbidi C E 0 2 0 0 0 0 0 0 0 0 0 0 C 0 0 0 0 0 0 0 0 0 0 0 0 0 4 6 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 7 0 F 7 D E C F 0 0 6 4 D 3 0 1 0 3 0 0 0 0 0 0 C 0 }
+{\f357\fbidi 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 4 F 0 0 6 C 0 0 6 5 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 A 0 0 0 2 0 1 F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 4 3 0 0 6 F }
+{\f357\fbidi 0 0 6 D 0 0 7 0 0 0 4 F 0 0 6 2 0 0 6 A 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 2 }
+{\f357\fbidi 0 0 0 2 0 1 0 1 0 0 0 0 0 0 0 3 0 0 0 0 0 0 F F F F F F F F 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 6 6 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 3 0 0 4 F 0 0 6 2 0 0 6 A 0 0 4 9 0 0 6 E 0 0 6 6 0 0 6 F 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 2 0 0 0 2 0 1 F F F F F F F F 0 4 0 0 0 0 0 0 F F }
+{\f357\fbidi F F F F F F 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 }
+{\f357\fbidi 0 0 0 0 0 0 0 6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 F E F F F F F F 0 2 0 0 0 0 0 0 F E }
+{\f357\fbidi F F F F F F F E F F F F F F 0 5 0 0 0 0 0 0 0 6 0 0 0 0 0 0 0 7 0 0 0 0 0 0 0 8 }
+{\f357\fbidi 0 0 0 0 0 0 0 9 0 0 0 0 0 0 0 A 0 0 0 0 0 0 0 B 0 0 0 0 0 0 0 C 0 0 0 0 0 0 0 D }
+{\f357\fbidi 0 0 0 0 0 0 0 E 0 0 0 0 0 0 F E F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F 0 1 0 0 0 0 0 2 0 8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 F E F F 0 3 0 A 0 0 0 0 F F F F F F F F 0 2 }
+{\f357\fbidi C E 0 2 0 0 0 0 0 0 0 0 0 0 C 0 0 0 0 0 0 0 0 0 0 0 0 0 4 6 1 7 0 0 0 0 0 0 4 D }
+{\f357\fbidi 6 9 6 3 7 2 6 F 7 3 6 F 6 6 7 4 2 0 6 3 5 4 3 6 5 6 7 6 5 3 7 6 6 5 2 0 3 3 2 E }
+{\f357\fbidi 3 0 0 0 0 C 0 0 0 0 0 0 4 4 5 3 2 0 6 3 5 4 3 6 5 6 7 6 5 3 7 6 6 5 0 0 0 B 0 0 }
+{\f357\fbidi 0 0 0 0 6 3 5 4 3 6 5 6 7 6 5 3 7 6 6 5 2 E 3 3 0 0 F 4 3 9 B 2 7 1 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 0 0 0 1 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi }
+{\f357\fbidi 1 c 0 0 0 0 0 0 0 2 0 0 a 8 c 3 9 9 0 2 0 0 0 0 0 0 0 0 0 0 0 0 4 8 9 0 5 d 0 0 }
+{\f357\fbidi 6 c 9 c 5 b 0 0 0 0 0 0 0 0 0 0 0 3 0 1 0 1 0 3 0 a 0 a 0 1 0 8 5 a 5 a b 8 4 4 }
+{\f357\fbidi e b 7 1 1 2 b a 7 8 5 6 3 4 1 2 3 1 d 0 8 b 0 8 8 b 0 9 8 b 0 9 6 6 8 3 c 1 3 c }
+{\f357\fbidi 3 1 d b 5 3 5 1 b e 6 4 3 e 7 2 1 2 3 1 d 6 f f 1 6 5 3 6 6 8 3 e e 4 c f f 1 0 }
+{\f357\fbidi 9 0 9 0 1 4 2 1 4 0 0 0 0 0 0 0 6 3 6 d 6 4 2 e 6 5 7 8 6 5 2 0 2 6 2 0 2 f 4 3 }
+{\f357\fbidi 2 0 4 3 4 4 2 0 4 3 3 a 2 0 2 6 2 0 6 d 7 3 6 9 6 5 7 8 6 5 6 3 2 e 6 5 7 8 6 5 }
+{\f357\fbidi 2 0 2 f 6 9 2 0 6 8 7 4 7 4 7 0 3 a 2 f 2 f 7 5 6 e 6 9 6 2 6 f 6 c 6 3 6 f 7 5 }
+{\f357\fbidi 7 2 6 9 6 5 7 2 2 e 6 3 6 f 6 d 2 e 6 2 6 f 2 f 6 6 6 9 6 c 6 5 2 f 6 2 6 f 6 f }
+{\f357\fbidi 6 d 2 f 6 2 6 9 6 e 2 e 6 d 7 3 6 9 2 0 2 f 7 1 7 5 6 9 6 5 7 4 2 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 5 0 0 7 1 0 0 }
+{\f357\fbidi 7 5 0 0 6 1 0 0 7 4 0 0 6 9 0 0 6 F 0 0 6 E 0 0 2 0 0 0 4 E 0 0 6 1 0 0 7 4 0 0 }
+{\f357\fbidi 6 9 0 0 7 6 0 0 6 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 2 0 0 0 0 2 0 0 F F F F F F F F F F F F F F F F F F F F F F F F 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 0 0 0 0 0 B 5 0 2 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 F F F F F F F F F F F F F F F F }
+{\f357\fbidi F F F F F F F F 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi F F F F F F F F F F F F F F F F F F F F F F F F 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 F F F F F F F F F F F F F F F F F F F F F F F F }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 5 0 0 0 0 0 5 }
+{\f357\fbidi 0 0 0 0 0 0 0 D 0 0 0 0 0 0 4 D 4 5 5 4 4 1 4 6 4 9 4 C 4 5 5 0 4 9 4 3 5 4 0 0 }
+{\f357\fbidi F 6 7 5 0 0 0 0 D 5 8 C F F F F 6 A 2 E 0 0 0 0 0 8 0 0 F 6 7 5 2 B 7 3 0 0 0 0 }
+{\f357\fbidi 0 1 0 0 0 9 0 0 0 0 0 3 3 1 1 7 0 0 0 0 0 2 0 0 1 C 0 0 0 0 0 0 0 0 0 0 0 5 0 0 }
+{\f357\fbidi 0 0 0 0 0 9 0 2 0 0 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 2 0 1 0 1 0 0 0 0 0 0 0 5 0 0 }
+{\f357\fbidi 0 0 0 0 0 1 0 2 F F F F F F 0 0 0 5 0 0 0 0 0 0 2 E 0 1 1 8 0 0 0 0 0 0 0 5 0 0 }
+{\f357\fbidi 0 0 0 0 0 B 0 2 0 0 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 C 0 2 4 0 8 0 0 0 6 B 1 2 0 0 }
+{\f357\fbidi 0 0 0 0 2 6 0 6 0 F 0 0 1 A 0 0 F F F F F F F F 0 0 0 0 1 0 0 0 0 0 0 0 C 0 F F }
+{\f357\fbidi F F F F 1 E 0 0 0 0 0 0 C 0 6 A 0 0 0 0 5 E 8 0 0 0 0 0 0 B 0 0 0 0 0 0 2 6 0 6 }
+{\f357\fbidi 0 F 0 0 0 C 0 0 4 D 6 1 7 4 6 8 5 4 7 9 7 0 6 5 0 0 0 0 E 0 1 F 1 C 0 0 0 0 0 0 }
+{\f357\fbidi F B 0 2 8 0 F E 0 0 0 0 0 0 0 0 0 0 0 0 9 0 0 1 0 1 0 0 0 0 0 0 0 4 0 2 0 0 1 0 }
+{\f357\fbidi 5 4 6 9 6 D 6 5 7 3 2 0 4 E 6 5 7 7 2 0 5 2 6 F 6 D 6 1 6 E 0 0 F E F F F F F F }
+{\f357\fbidi 2 1 1 6 0 A 6 3 0 0 0 0 0 A 0 0 0 0 0 0 0 0 0 0 0 4 0 0 0 0 0 0 2 D 0 1 0 0 0 0 }
+{\f357\fbidi 0 8 0 0 0 0 0 0 3 2 0 A E 1 7 F B A 3 4 0 1 0 0 0 0 0 0 6 1 0 0 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A E 1 7 F 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A E 1 7 F B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A E 1 7 F 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A E 1 7 F B A 1 6 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A E 1 7 F }
+{\f357\fbidi 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A E 1 7 F B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A E 1 7 F 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 3 2 0 A E 1 7 F B A 3 4 0 1 0 0 0 0 0 0 6 1 0 0 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A E 1 7 F 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A E 1 7 F B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A E 1 7 F 3 A 1 E 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A E 1 7 F }
+{\f357\fbidi B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A E 1 7 F 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A E 1 7 F B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A E 1 7 F 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 3 2 0 A E 1 7 F B A 3 4 0 1 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 0 0 0 C 0 0 0 0 0 0 3 2 0 A E 1 7 F 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A E 1 7 F B A 2 5 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A E 1 7 F }
+{\f357\fbidi 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A E 1 7 F B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A E 1 7 F 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A E 1 7 F B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A E 1 7 F 3 A 0 0 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 3 2 0 A E 1 7 F }
+{\f357\fbidi B A 3 4 0 1 0 0 0 0 0 0 6 1 0 0 0 C 0 0 0 0 0 0 3 2 0 A E 1 7 F 3 A 2 D 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A E 1 7 F }
+{\f357\fbidi B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A E 1 7 F 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A E 1 7 F B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A E 1 7 F 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A E 1 7 F B A 0 7 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A E 1 7 F }
+{\f357\fbidi 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A E 1 7 F B A 3 4 0 1 0 0 0 0 0 0 6 1 0 0 0 C 0 0 0 0 0 0 3 2 0 A E 1 7 F }
+{\f357\fbidi 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A E 1 7 F B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A E 1 7 F 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A E 1 7 F B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A E 1 7 F 3 A 0 F 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A E 1 7 F }
+{\f357\fbidi B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A E 1 7 F 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 8 0 0 0 0 0 0 3 2 0 A 0 8 7 F B A 3 4 0 1 0 0 0 0 0 0 6 1 0 0 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 0 8 7 F 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 0 8 7 F B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 7 F 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 7 F B A 1 6 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 7 F }
+{\f357\fbidi 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 0 8 7 F B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 0 8 7 F 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 3 2 0 A C 8 7 C B A 3 4 0 1 0 0 0 0 0 0 6 1 0 0 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A C 8 7 C 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 7 C B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 7 C 3 A 1 E 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 7 C }
+{\f357\fbidi B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A C 8 7 C 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A C 8 7 C B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 7 C 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 3 2 0 A 8 8 7 A B A 3 4 0 1 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 7 9 0 C 0 0 0 0 0 0 3 2 0 A 8 8 7 A 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 7 A B A 2 5 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 7 A }
+{\f357\fbidi 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 8 8 7 A B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 8 8 7 A 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 7 A B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 7 A 3 A 0 0 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 3 2 0 A 4 8 7 8 }
+{\f357\fbidi B A 3 4 0 1 0 0 0 0 0 0 6 1 0 0 0 C 0 0 0 0 0 0 3 2 0 A 4 8 7 8 3 A 2 D 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 7 8 }
+{\f357\fbidi B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 4 8 7 8 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 4 8 7 8 B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 7 8 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 7 8 B A 0 7 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 7 8 }
+{\f357\fbidi 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 0 8 7 6 B A 3 4 0 1 0 0 0 0 0 0 6 1 0 0 0 C 0 0 0 0 0 0 3 2 0 A 0 8 7 6 }
+{\f357\fbidi 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 0 8 7 6 B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 0 8 7 6 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 7 6 B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 7 6 3 A 0 F 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 7 6 }
+{\f357\fbidi B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 0 8 7 6 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 8 0 0 0 0 0 0 3 2 0 A C 8 7 3 B A 3 4 0 1 0 0 0 0 0 0 6 1 0 0 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A C 8 7 3 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A C 8 7 3 B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 7 3 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 7 3 B A 1 6 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 7 3 }
+{\f357\fbidi 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A C 8 7 3 B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A C 8 7 3 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 3 2 0 A 8 8 7 1 B A 3 4 0 1 0 0 0 0 0 0 6 1 0 0 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 8 8 7 1 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 7 1 B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 7 1 3 A 1 E 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 7 1 }
+{\f357\fbidi B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 8 8 7 1 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 8 8 7 1 B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 7 1 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 3 2 0 A 4 8 6 F B A 3 4 0 1 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 0 0 0 C 0 0 0 0 0 0 3 2 0 A 4 8 6 F 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 6 F B A 2 5 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 6 F }
+{\f357\fbidi 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 4 8 6 F B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 4 8 6 F 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 6 F B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 6 F 3 A 0 0 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 3 2 0 A 0 8 6 D }
+{\f357\fbidi B A 3 4 0 1 0 0 0 0 0 0 6 1 0 0 0 C 0 0 0 0 0 0 3 2 0 A 0 8 6 D 3 A 2 D 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 6 D }
+{\f357\fbidi B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 0 8 6 D 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 0 8 6 D B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 6 D 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 6 D B A 0 7 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 6 D }
+{\f357\fbidi 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A C 8 6 A B A 3 4 0 1 0 0 0 0 0 0 6 1 0 0 0 C 0 0 0 0 0 0 3 2 0 A C 8 6 A }
+{\f357\fbidi 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A C 8 6 A B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A C 8 6 A 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 6 A B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 6 A 3 A 0 F 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 6 A }
+{\f357\fbidi B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A C 8 6 A 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 8 0 0 0 0 0 0 3 2 0 A 8 8 6 8 B A 3 4 0 1 0 0 0 0 0 0 6 1 0 0 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 8 8 6 8 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 8 8 6 8 B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 6 8 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 6 8 B A 1 6 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 6 8 }
+{\f357\fbidi 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 8 8 6 8 B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 8 8 6 8 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 3 2 0 A 4 8 6 6 B A 3 4 0 1 0 0 0 0 0 0 6 1 0 0 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 4 8 6 6 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 6 6 B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 6 6 3 A 1 E 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 6 6 }
+{\f357\fbidi B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 4 8 6 6 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 4 8 6 6 B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 6 6 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 3 2 0 A 0 8 6 4 B A 3 4 0 1 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 0 0 0 C 0 0 0 0 0 0 3 2 0 A 0 8 6 4 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 6 4 B A 2 5 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 6 4 }
+{\f357\fbidi 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 0 8 6 4 B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 0 8 6 4 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 6 4 B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 6 4 3 A 0 0 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 3 2 0 A C 8 6 1 }
+{\f357\fbidi B A 3 4 0 1 0 0 0 0 0 0 6 1 0 0 0 C 0 0 0 0 0 0 3 2 0 A C 8 6 1 3 A 2 D 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 6 1 }
+{\f357\fbidi B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A C 8 6 1 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A C 8 6 1 B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 6 1 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 6 1 B A 0 7 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 6 1 }
+{\f357\fbidi 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 8 8 5 F B A 3 4 0 1 0 0 0 0 0 0 6 1 0 0 0 C 0 0 0 0 0 0 3 2 0 A 8 8 5 F }
+{\f357\fbidi 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 8 8 5 F B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 8 8 5 F 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 5 F B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 5 F 3 A 0 F 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 5 F }
+{\f357\fbidi B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 8 8 5 F 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 8 0 0 0 0 0 0 3 2 0 A 4 8 5 D B A 3 4 0 1 0 0 0 0 0 0 6 1 0 0 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 4 8 5 D 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 4 8 5 D B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 5 D 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 5 D B A 1 6 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 5 D }
+{\f357\fbidi 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 4 8 5 D B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 4 8 5 D 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 3 2 0 A 0 8 5 B B A 3 4 0 1 0 0 0 0 0 0 6 1 0 0 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 0 8 5 B 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 5 B B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 5 B 3 A 1 E 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 5 B }
+{\f357\fbidi B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 0 8 5 B 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 0 8 5 B B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 5 B 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 3 2 0 A C 8 5 8 B A 3 4 0 1 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 0 0 0 C 0 0 0 0 0 0 3 2 0 A C 8 5 8 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 5 8 B A 2 5 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 5 8 }
+{\f357\fbidi 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A C 8 5 8 B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A C 8 5 8 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 5 8 B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 5 8 3 A 0 0 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 3 2 0 A 8 8 5 6 }
+{\f357\fbidi B A 3 4 0 1 0 0 0 0 0 0 6 1 0 0 0 C 0 0 0 0 0 0 3 2 0 A 8 8 5 6 3 A 2 D 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 5 6 }
+{\f357\fbidi B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 8 8 5 6 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 8 8 5 6 B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 5 6 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 5 6 B A 0 7 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 5 6 }
+{\f357\fbidi 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 4 8 5 4 B A 3 4 0 1 0 0 0 0 0 0 6 1 0 0 0 C 0 0 0 0 0 0 3 2 0 A 4 8 5 4 }
+{\f357\fbidi 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 4 8 5 4 B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 4 8 5 4 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 5 4 B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 5 4 3 A 0 F 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 5 4 }
+{\f357\fbidi B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 4 8 5 4 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 8 0 0 0 0 0 0 3 2 0 A 0 8 5 2 B A 3 4 0 1 0 0 0 0 0 0 6 1 0 0 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 0 8 5 2 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 0 8 5 2 B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 5 2 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 5 2 B A 1 6 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 5 2 }
+{\f357\fbidi 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 0 8 5 2 B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 0 8 5 2 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 3 2 0 A C 8 4 F B A 3 4 0 1 0 0 0 0 0 0 6 1 0 0 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A C 8 4 F 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 4 F B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 4 F 3 A 1 E 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 4 F }
+{\f357\fbidi B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A C 8 4 F 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A C 8 4 F B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 4 F 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 3 2 0 A 8 8 4 D B A 3 4 0 1 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 0 0 0 C 0 0 0 0 0 0 3 2 0 A 8 8 4 D 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 4 D B A 2 5 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 4 D }
+{\f357\fbidi 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 8 8 4 D B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 8 8 4 D 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 4 D B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 4 D 3 A 0 0 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 3 2 0 A 4 8 4 B }
+{\f357\fbidi B A 3 4 0 1 0 0 0 0 0 0 6 1 0 0 0 C 0 0 0 0 0 0 3 2 0 A 4 8 4 B 3 A 2 D 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 4 B }
+{\f357\fbidi B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 4 8 4 B 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 4 8 4 B B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 4 B 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 4 B B A 0 7 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 4 B }
+{\f357\fbidi 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 0 8 4 9 B A 3 4 0 1 0 0 0 0 0 0 6 1 0 0 0 C 0 0 0 0 0 0 3 2 0 A 0 8 4 9 }
+{\f357\fbidi 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 0 8 4 9 B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 0 8 4 9 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 4 9 B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 4 9 3 A 0 F 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 4 9 }
+{\f357\fbidi B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 0 8 4 9 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 8 0 0 0 0 0 0 3 2 0 A C 8 4 6 B A 3 4 0 1 0 0 0 0 0 0 6 1 0 0 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A C 8 4 6 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A C 8 4 6 B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 4 6 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 4 6 B A 1 6 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 4 6 }
+{\f357\fbidi 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A C 8 4 6 B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A C 8 4 6 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 3 2 0 A 8 8 4 4 B A 3 4 0 1 0 0 0 0 0 0 6 1 0 0 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 8 8 4 4 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 4 4 B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 4 4 3 A 1 E 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 4 4 }
+{\f357\fbidi B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 8 8 4 4 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 8 8 4 4 B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 4 4 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 3 2 0 A 4 8 4 2 B A 3 4 0 1 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 0 0 0 C 0 0 0 0 0 0 3 2 0 A 4 8 4 2 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 4 2 B A 2 5 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 4 2 }
+{\f357\fbidi 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 4 8 4 2 B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 4 8 4 2 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 4 2 B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 4 2 3 A 0 0 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 3 2 0 A 0 8 4 0 }
+{\f357\fbidi B A 3 4 0 1 0 0 0 0 0 0 6 1 0 0 0 C 0 0 0 0 0 0 3 2 0 A 0 8 4 0 3 A 2 D 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 4 0 }
+{\f357\fbidi B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 0 8 4 0 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 0 8 4 0 B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 4 0 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 4 0 B A 0 7 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 4 0 }
+{\f357\fbidi 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A C 8 3 D B A 3 4 0 1 0 0 0 0 0 0 6 1 0 0 0 C 0 0 0 0 0 0 3 2 0 A C 8 3 D }
+{\f357\fbidi 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A C 8 3 D B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A C 8 3 D 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 3 D B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 3 D 3 A 0 F 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 3 D }
+{\f357\fbidi B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A C 8 3 D 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 8 0 0 0 0 0 0 3 2 0 A 8 8 3 B B A 3 4 0 1 0 0 0 0 0 0 6 1 0 0 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 8 8 3 B 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 8 8 3 B B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 3 B 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 3 B B A 1 6 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 3 B }
+{\f357\fbidi 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 8 8 3 B B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 8 8 3 B 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 3 2 0 A 4 8 3 9 B A 3 4 0 1 0 0 0 0 0 0 6 1 0 0 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 4 8 3 9 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 3 9 B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 3 9 3 A 1 E 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 3 9 }
+{\f357\fbidi B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 4 8 3 9 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 4 8 3 9 B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 3 9 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 3 2 0 A 0 8 3 7 B A 3 4 0 1 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 0 0 0 C 0 0 0 0 0 0 3 2 0 A 0 8 3 7 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 3 7 B A 2 5 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 3 7 }
+{\f357\fbidi 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 0 8 3 7 B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 0 8 3 7 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 3 7 B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 3 7 3 A 0 0 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 3 2 0 A C 8 3 4 }
+{\f357\fbidi B A 3 4 0 1 0 0 0 0 0 0 6 1 0 0 0 C 0 0 0 0 0 0 3 2 0 A C 8 3 4 3 A 2 D 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 3 4 }
+{\f357\fbidi B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A C 8 3 4 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A C 8 3 4 B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 3 4 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 3 4 B A 0 7 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 3 4 }
+{\f357\fbidi 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 8 8 3 2 B A 3 4 0 1 0 0 0 0 0 0 6 1 7 9 0 C 0 0 0 0 0 0 3 2 0 A 8 8 3 2 }
+{\f357\fbidi 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 8 8 3 2 B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 8 8 3 2 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 3 2 B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 3 2 3 A 0 F 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 3 2 }
+{\f357\fbidi B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 8 8 3 2 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 8 0 0 0 0 0 0 3 2 0 A 4 8 3 0 B A 3 4 0 1 0 0 0 0 0 0 6 1 0 0 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 4 8 3 0 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 4 8 3 0 B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 3 0 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 3 0 B A 1 6 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 3 0 }
+{\f357\fbidi 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 4 8 3 0 B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 4 8 3 0 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 3 2 0 A 0 8 2 E B A 3 4 0 1 0 0 0 0 0 0 6 1 0 0 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 0 8 2 E 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 2 E B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 2 E 3 A 1 E 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 2 E }
+{\f357\fbidi B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 0 8 2 E 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 0 8 2 E B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 2 E 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 3 2 0 A C 8 2 B B A 3 4 0 1 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 0 0 0 C 0 0 0 0 0 0 3 2 0 A C 8 2 B 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 2 B B A 2 5 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 2 B }
+{\f357\fbidi 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A C 8 2 B B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A C 8 2 B 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 2 B B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 2 B 3 A 0 0 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 3 2 0 A 8 8 2 9 }
+{\f357\fbidi B A 3 4 0 1 0 0 0 0 0 0 6 1 0 0 0 C 0 0 0 0 0 0 3 2 0 A 8 8 2 9 3 A 2 D 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 2 9 }
+{\f357\fbidi B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 8 8 2 9 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 8 8 2 9 B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 2 9 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 2 9 B A 0 7 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 2 9 }
+{\f357\fbidi 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 4 8 2 7 3 A 6 9 0 2 0 0 0 0 0 0 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 2 7 }
+{\f357\fbidi B A 6 1 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 4 8 2 7 3 A 5 A 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 4 8 2 7 B A 5 2 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 2 7 3 A 4 B 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 2 7 B A 4 3 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 2 7 }
+{\f357\fbidi 3 A 3 C 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 4 8 2 7 B A 3 4 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 4 8 2 7 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 2 7 B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 2 7 3 A 1 E 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 2 7 }
+{\f357\fbidi B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 4 8 2 7 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 4 8 2 7 B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 2 7 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 3 2 0 A 0 8 2 5 B A 3 4 0 1 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 2 5 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 2 5 B A 2 5 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 2 5 }
+{\f357\fbidi 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 0 8 2 5 B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 0 8 2 5 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 2 5 B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 2 5 3 A 0 0 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 3 2 0 A C 8 2 2 }
+{\f357\fbidi B A 3 4 0 1 0 0 0 0 0 0 6 1 0 0 0 C 0 0 0 0 0 0 3 2 0 A C 8 2 2 3 A 2 D 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 2 2 }
+{\f357\fbidi B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A C 8 2 2 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A C 8 2 2 B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 2 2 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 2 2 B A 0 7 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 2 2 }
+{\f357\fbidi 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 8 8 2 0 B A 3 4 0 1 0 0 0 0 0 0 6 1 0 0 0 C 0 0 0 0 0 0 3 2 0 A 8 8 2 0 }
+{\f357\fbidi 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 8 8 2 0 B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 8 8 2 0 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 2 0 B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 2 0 3 A 0 F 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 2 0 }
+{\f357\fbidi B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 8 8 2 0 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 8 0 0 0 0 0 0 3 2 0 A 4 8 1 E B A 3 4 0 1 0 0 0 0 0 0 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 4 8 1 E 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 4 8 1 E B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 1 E 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 1 E B A 1 6 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 1 E }
+{\f357\fbidi 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 4 8 1 E B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 4 8 1 E 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 3 2 0 A 0 8 1 C B A 3 4 0 1 0 0 0 0 0 0 6 1 0 0 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 0 8 1 C 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 1 C B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 1 C 3 A 1 E 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 1 C }
+{\f357\fbidi B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 0 8 1 C 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 0 8 1 C B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 1 C 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 3 2 0 A C 8 1 9 B A 3 4 0 1 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 0 0 0 C 0 0 0 0 0 0 3 2 0 A C 8 1 9 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 1 9 B A 2 5 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 1 9 }
+{\f357\fbidi 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A C 8 1 9 B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A C 8 1 9 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 1 9 B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 1 9 3 A 0 0 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 3 2 0 A 8 8 1 7 }
+{\f357\fbidi B A 3 4 0 1 0 0 0 0 0 0 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 1 7 3 A 2 D 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 1 7 }
+{\f357\fbidi B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 8 8 1 7 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 8 8 1 7 B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 1 7 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 1 7 B A 0 7 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 1 7 }
+{\f357\fbidi 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 4 8 1 5 B A 3 4 0 1 0 0 0 0 0 0 6 1 0 0 0 C 0 0 0 0 0 0 3 2 0 A 4 8 1 5 }
+{\f357\fbidi 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 4 8 1 5 B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 4 8 1 5 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 1 5 B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 1 5 3 A 0 F 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 1 5 }
+{\f357\fbidi B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 4 8 1 5 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 8 0 0 0 0 0 0 3 2 0 A 0 8 1 3 B A 3 4 0 1 0 0 0 0 0 0 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 0 8 1 3 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 0 8 1 3 B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 1 3 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 1 3 B A 1 6 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 1 3 }
+{\f357\fbidi 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 0 8 1 3 B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 0 8 1 3 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 3 2 0 A C 8 1 0 B A 3 4 0 1 0 0 0 0 0 0 6 1 0 0 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A C 8 1 0 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 1 0 B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 1 0 3 A 1 E 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 1 0 }
+{\f357\fbidi B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A C 8 1 0 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A C 8 1 0 B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 1 0 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 3 2 0 A 8 8 0 E B A 3 4 0 1 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 0 0 0 C 0 0 0 0 0 0 3 2 0 A 8 8 0 E 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 0 E B A 2 5 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 0 E }
+{\f357\fbidi 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 8 8 0 E B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 8 8 0 E 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 0 E B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 0 E 3 A 0 0 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 3 2 0 A 4 8 0 C }
+{\f357\fbidi B A 3 4 0 1 0 0 0 0 0 0 6 1 0 0 0 C 0 0 0 0 0 0 3 2 0 A 4 8 0 C 3 A 2 D 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 0 C }
+{\f357\fbidi B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 4 8 0 C 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 4 8 0 C B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 0 C 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 0 C B A 0 7 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 0 C }
+{\f357\fbidi 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 0 8 0 A B A 3 4 0 1 0 0 0 0 0 0 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 0 A }
+{\f357\fbidi 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 0 8 0 A B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 0 8 0 A 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 0 A B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 0 A 3 A 0 F 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 0 A }
+{\f357\fbidi B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 0 8 0 A 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 8 0 0 0 0 0 0 3 2 0 A C 8 0 7 B A 3 4 0 1 0 0 0 0 0 0 6 1 0 0 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A C 8 0 7 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A C 8 0 7 B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 0 7 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 0 7 B A 1 6 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A C 8 0 7 }
+{\f357\fbidi 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A C 8 0 7 B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A C 8 0 7 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 3 2 0 A 8 8 0 5 B A 3 4 0 1 0 0 0 0 0 0 6 1 0 0 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 8 8 0 5 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 0 5 B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 0 5 3 A 1 E 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 0 5 }
+{\f357\fbidi B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 8 8 0 5 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 8 8 0 5 B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 8 8 0 5 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 3 2 0 A 4 8 0 3 B A 3 4 0 1 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 0 0 0 C 0 0 0 0 0 0 3 2 0 A 4 8 0 3 3 A 2 D 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 0 3 B A 2 5 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 0 3 }
+{\f357\fbidi 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 4 8 0 3 B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 4 8 0 3 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 0 3 B A 0 7 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 4 8 0 3 3 A 0 0 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 8 0 0 0 0 0 0 3 2 0 A 0 8 0 1 }
+{\f357\fbidi B A 3 4 0 1 0 0 0 0 0 0 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 0 1 3 A 2 D 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 0 1 }
+{\f357\fbidi B A 2 5 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 }
+{\f357\fbidi 3 2 0 A 0 8 0 1 3 A 1 E 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 0 C 0 0 0 0 0 0 3 2 0 A 0 8 0 1 B A 1 6 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 0 1 3 A 0 F 0 A 0 0 0 0 0 0 6 1 6 1 }
+{\f357\fbidi 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 0 1 B A 0 7 0 A 0 0 }
+{\f357\fbidi 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 C 0 0 0 0 0 0 3 2 0 A 0 8 0 1 }
+{\f357\fbidi 3 A 0 0 0 A 0 0 0 0 0 0 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 6 1 0 A 0 0 0 0 0 0 }
+{\f357\fbidi 2 6 0 6 0 F 0 0 0 A 0 0 F F F F F F F F 0 1 0 0 0 0 0 0 0 0 0 0 1 C 0 0 0 0 0 0 }
+{\f357\fbidi F B 0 2 1 0 0 0 0 7 0 0 0 0 0 0 0 0 0 0 B C 0 2 0 0 0 0 0 0 8 6 0 1 0 2 0 2 2 2 }
+{\f357\fbidi 5 3 7 9 7 3 7 4 6 5 6 D 0 0 0 0 2 1 0 0 8 A 0 2 0 0 0 0 0 A 0 0 C D 1 1 6 6 F 1 }
+{\f357\fbidi 2 1 0 0 8 A 0 2 F F F F F F F F 7 8 E F 1 9 0 0 0 4 0 0 0 0 0 0 2 D 0 1 0 1 0 0 }
+{\f357\fbidi 0 4 0 0 0 0 0 0 F 0 0 1 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 }
+{\f357\fbidi }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+}}
